@@ -1,0 +1,11 @@
+body{
+    background-color: #f1f1f1;
+}
+.facebookInner{
+    margin: 25px;
+    background-color: white;
+    padding: 25px;
+}
+.Learn.more:hover{
+    cursor: pointer;
+}
